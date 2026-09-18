@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+xgboost
+langchain
+langchain-openai
+pydantic
+requests
